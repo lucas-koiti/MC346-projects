@@ -1,6 +1,6 @@
 -- Alunos:
--- Esdras Rodrigues do Carmo - RA: 170656
--- Lucas Koiti Geminiani Tamanaha - RA: 182579
+-- Esdras Rodrigues do Carmo 
+-- Lucas Koiti Geminiani Tamanaha 
 
 import Data.List
 import qualified Data.Map.Strict as M
