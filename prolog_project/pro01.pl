@@ -1,7 +1,4 @@
-%
-%  Authors:
-%        Lucas Koiti G Tamanaha - RA 182579
-%        Esdras Rodrigues do Carmo - RA XXXXXX
+
 
 :- use_module(library(clpq)).
 
