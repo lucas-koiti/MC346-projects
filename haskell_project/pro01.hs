@@ -1,6 +1,4 @@
--- Alunos:
--- Esdras Rodrigues do Carmo 
--- Lucas Koiti Geminiani Tamanaha 
+
 
 import Data.List
 import qualified Data.Map.Strict as M
